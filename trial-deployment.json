@@ -1,0 +1,17 @@
+{
+  "releaseId": "rel-and286-trial-04",
+  "feedManifestSha256": "6947639abf86b0ca0b269003e9f1699de135678226f9acaa45ca5b38ffc5615f",
+  "sourceCommit": "58b0128d833508aaad1fc39725afa5c39cca411d",
+  "deployedAt": "2026-11-08T23:34:39.135Z",
+  "noindex": true,
+  "lineage": {
+    "frozenManifestSha256": "6947639abf86b0ca0b269003e9f1699de135678226f9acaa45ca5b38ffc5615f",
+    "deployedManifestSha256": "e9b5eb504156e9b70c119470e9222883503377e17acf48282b6a3cf2fa88bc32",
+    "idMap": {
+      "from": "d4288962-effd-4bae-8155-125dd7a2aa25",
+      "to": "evt-orforglipron-obesity-regulatory-20261016",
+      "verified": true
+    }
+  },
+  "distListingSha256": "2c7b265b7ad5443ea766f73b2448f951c855b0d9e120d92eb9fdadc1b8db721b"
+}

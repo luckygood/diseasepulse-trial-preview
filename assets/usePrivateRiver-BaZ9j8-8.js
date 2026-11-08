@@ -1,0 +1,1 @@
+import{c as e,l as t}from"./index-WqpGJqgM.js";var n=t(e(),1);function r(){let[e,t]=(0,n.useState)([]),[r,i]=(0,n.useState)(`ready`);return(0,n.useEffect)(()=>{},[]),{events:e,status:r}}export{r as t};
